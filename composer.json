@@ -1,0 +1,18 @@
+{
+    "name": "dizatech/zarinpal_ipg",
+    "description": "A package for integrating Zarinpal payment gateway into web applications",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Dizatech\\ZarinpalIpg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omid Reza Vasheghani Farahani",
+            "email": "omidrezav@gmail.com"
+        }
+    ],
+    "require": {}
+}
